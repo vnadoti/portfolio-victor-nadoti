@@ -223,7 +223,7 @@ export default function Home() {
       <section id="contato" className="panel content-panel contact-panel">
         <p className="section-label">vamos criar juntos</p>
         <div className="contact-grid">
-          <div><h2>Tem um projeto<br />em mente?</h2><p>Conte sua ideia e vamos transformar isso em uma presença digital que chama atenção e gera resultado.</p><a className="contact-orbit" href="mailto:contato@victornadoti.com"><span>FALAR COMIGO ↗</span></a></div>
+          <div><h2>Tem um projeto<br />em mente?</h2><p>Conte sua ideia e vamos transformar isso em uma presença digital que chama atenção e gera resultado.</p><a className="contact-orbit" href="https://wa.me/5517996511914?text=Ol%C3%A1%20%2C%20vim%20do%20seu%20site%20gostaria%20de%20um%20or%C3%A7amento%20para%20um%20Site."><span>FALAR COMIGO ↗</span></a></div>
           <div className="contact-info"><p>Contato</p><a href="mailto:vnadoti@gmail.com">vnadoti@gmail.com</a><p>Social</p><a href="https://wa.me/5517996511914?text=Ol%C3%A1%20%2C%20vim%20do%20seu%20site%20gostaria%20de%20um%20or%C3%A7amento%20para%20um%20Site.">WhatsApp</a><a href="https://www.instagram.com/vnadoti/">Instagram</a></div>
         </div>
         <footer><span>© 2026 Victor Nadoti</span><span>Desenvolvido com intenção.</span></footer>
